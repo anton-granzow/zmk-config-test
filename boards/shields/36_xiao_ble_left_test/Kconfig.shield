@@ -1,0 +1,3 @@
+config SHIELD_36_XIAO_BLE_LEFT_TEST
+    def_bool $(shields_list_contains,36_xiao_ble_left_test)
+

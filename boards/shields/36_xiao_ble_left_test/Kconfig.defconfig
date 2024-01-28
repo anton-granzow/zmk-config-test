@@ -1,0 +1,9 @@
+if SHIELD_36_XIAO_BLE_LEFT_TEST 
+
+config ZMK_KEYBOARD_NAME
+    default "36 left test"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
