@@ -11,7 +11,7 @@
    &kp Q &kp W &kp E &kp R &kp T   
    &kp A &kp S &kp D &kp F &kp G   
    &kp Z &kp X &kp C &kp V &kp B   
-        &bt BT_SEL 1 &bt BT_CLR &kp SPACE  
+        &bt BT_SEL 1 &bt BT_CLR &out OUT_BLE
                         >;
                 };
         };
