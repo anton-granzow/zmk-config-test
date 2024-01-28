@@ -1,4 +1,4 @@
-if SHIELD_36_XIAO_BLE_LEFT_TEST 
+if SHIELD_36_XIAO_BLE_LEFT_TEST
 
 config ZMK_KEYBOARD_NAME
     default "36 left test"
